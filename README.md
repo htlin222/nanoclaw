@@ -1,3 +1,7 @@
+![GitHub stars](https://img.shields.io/github/stars/htlin222/nanoclaw?style=flat-square)
+![Last commit](https://img.shields.io/github/last-commit/htlin222/nanoclaw?style=flat-square)
+![License](https://img.shields.io/github/license/htlin222/nanoclaw?style=flat-square)
+
 <p align="center">
   <img src="assets/nanoclaw-logo.png" alt="NanoClaw" width="400">
 </p>
